@@ -28,9 +28,7 @@ result = sum_digit(num)
 print(f"Sum of digits of {num} is: {result}")
 ```
 ## OUTPUT
-```
-Enter a positive integer: 1234
-Sum of digits of 1234 is: 10
-````
+<img width="467" height="220" alt="Screenshot 2025-09-08 085403" src="https://github.com/user-attachments/assets/6966fc70-cf5d-4722-8f75-20cf7a6682cb" />
+
 ## RESULT
 Hence calculated the **sum of all digits** in a number using **recursion**
